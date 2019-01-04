@@ -19,18 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Customer Sign Off & Data Acquisition Manager"
+  company = "Jaguar Land Rover"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2016-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * E2E DVH Validation & Deployment for NGI SOTA
+  * GDPR lead for IVI Systems
+  * SOTA Validation & Deployment
+  * IDAQ - Vehicle Data Sharing Feature & In Vehicle BehavIoural Monitoring & Analytics
   """
 
 [[experience]]

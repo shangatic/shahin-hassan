@@ -13,7 +13,7 @@ title = "Shahin Hassan"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019 Shahin Hassan "
 
 theme = "academic"
 enableEmoji = true
@@ -52,26 +52,22 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Shahin Hassan"
+  role = "Founder"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Autolytics", url = "http://www.autolytics.co.uk" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "port_pen.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "trevormlazarus@gmail.com"
+  # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+
+  phone = "+44 (0) 7961 444 247"
+  # skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -300,25 +296,25 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+# [[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+# [[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -327,10 +323,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+ [[menu.main]]
+    name = "CV"
+    url = "files/ShahinHassanCV2018November.pdf"
+    weight = 5
 
 # Search.
 [params.search]
