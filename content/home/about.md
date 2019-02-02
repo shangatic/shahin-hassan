@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Project & Programme Delivery, Vehicle and Software Commodity Launch",
     " Voice of Customer, Issues Management, Data Driven, Strategic Thinking GDPR",
-    "Problem Solving, Agile and Scrum Software Delivery, Metrics, Validation Gitlab, JIRA FMEA, Business & Process Architect",
+    "Problem Solving, Agile and Scrum Software Delivery, Software Development Lifecycle, Metrics, Validation Gitlab, JIRA FMEA, Business & Process Architect",
     "Smart Cities, Connected Car, Consumer Electronics, Connected Devices, Big Data, IOT, Innovation, Prosumer Engineering",
     "Start Up Ventures, Turnkey Product development and innovation, Edge technology product launch & distribution",
   ]
