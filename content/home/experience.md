@@ -74,6 +74,43 @@ Responsible for the project delivery of DAB+ retrofit global release to ensure c
  *  JLR CEO’s request fulfilled by delivering a robust engineering solution. Now a revenue stream for JLR Infotainment accessories division
   """
 
+[[experience]]
+  title = "Assistant Manager HA Major Projects"
+  company = "Department for Transport"
+  company_url = ""
+  location = ""
+  date_start = "2009-07-01"
+  date_end = "2011-07-01"
+  description = """ 
+Responsible for the delivery of key projects during the development phase of a major infrastructure scheme valued at £179m in the South
+East – A5-M1 Link (Dunstable Northern Bypass).
+
+* Forecast and actual budget management within 5% tolerance on £179m project;
+* Managing a team to deliver a number of products (including Business Case) to key gateways;
+* Saved £8m of funding by negotiating an agreement where 2 stakeholders agreed to share a corridor;
+* Organised & coordinated Public Inquiry – Orders; Compulsory Purchase Orders;
+* Approved all media publications for the scheme during the development phase;
+* Presenting project status to Director level on a monthly basis;
+  """
+[[experience]]
+  title = "Graduate Engineer / Assistant Project Manager"
+  company = "Atkins Global - Intelligent Transport Systems"
+  company_url = ""
+  location = ""
+  date_start = "2006-07-01"
+  date_end = "2009-07-01"
+  description = """ 
+Delivered a number of high profile projects for Atkins in Transport Systems. Developed innovative traffic calming technology design and
+implementation schemes (Ramp Metering, Integrated Traffic Management) CCTV design and build, site management, including creating
+specifications for traffic light controllers specifications, datasets and overseeing validation.
+
+* Ramp Metering - Responsible for the full handover of Ramp Metering Phase 0 + 1 for parts of England. This is an achievement
+which was recognised by management as there had been a number of attempts in the past to handover these sites.
+* Integrated Traffic Management – ITM (£500k budget) Delivered a high profile project which involved management of
+stakeholders and liaising with Department for Transport and Local Authorities.
+* Collaborating with a number of signals specialists to work on the integration of two unique traffic calming technologies.
+  """
+
 
 [[experience]]
   title = " Partner / Family Owned Linen Hire and Laundry Plant - Birmingham"
