@@ -14,7 +14,8 @@ weight = 5
     " Voice of Customer, Issues Management, Data Driven, Strategic Thinking GDPR",
     "Problem Solving, Agile and Scrum Software Delivery, Software Development Lifecycle, Metrics, Validation Gitlab, JIRA FMEA, Business & Process Architect",
     "Smart Cities, Connected Car, Consumer Electronics, Connected Devices, Big Data, IOT, Innovation, Prosumer Engineering",
-    "Start Up Ventures, Turnkey Product development and innovation, Edge technology product launch & distribution",
+    "Start Up Ventures, Turnkey Product Development and innovation, Edge technology product launch & distribution",
+    "People Development, Mentoring, Educational Training, Next Gen Skills",
   ]
 
 # List your qualifications (such as academic degrees).
