@@ -75,6 +75,22 @@ Responsible for the project delivery of DAB+ retrofit global release to ensure c
   """
 
 
+[[experience]]
+  title = " Partner / Family Owned Linen Hire and Laundry Plant - Birmingham"
+  company = "Diamond Linen Hire"
+  company_url = "www.diamondlinen.co.uk"
+  location = "Birmingham, West Midlands"
+  date_start = "1997-07-01"
+  date_end = ""
+  description = """ 
+Family owned laundry plant and linen hire operation serving the best hotels and restaurants in the Midlands and surrounding counties. 
+
+ *  Expansion of 2 laundry plants;
+ *  Increased turnover by 25% through digital marketing;
+ *  Application of lean manufacturing & Kaizen - 6 Sigma;
+ *  Business Transformation including sourcing new ethical suppliers and energy efficiency technology to reduce water consumption and usage.;
+ *  Industry 4.0 - Automation of machinery and connected plant implementation with digital tracking of every asset.
+  """
 +++
 
 
